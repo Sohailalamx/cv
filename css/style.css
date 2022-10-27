@@ -14,3 +14,9 @@ img{height: 150px;
 
 h1{color: #71C9CE;}
 h3{color: #71C9CE;}
+
+div{margin: 5% 15%;
+    padding: 30px;
+    width: 65%;
+    border-radius: 8px;
+    box-shadow: 3px 3px 20px lightgrey;
